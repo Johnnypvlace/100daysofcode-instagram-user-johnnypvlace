@@ -1,0 +1,21 @@
+# Dia 74
+
+# Dia 74|100 🧩 Bloco curto, Jquery e+
+
+ Bloco curto, porém com aulas extensas sobre Jquery, e assim seguimos!
+
+Estudo:
+
+- Variáveis com JQuery
+- Manipulando dimensões dinamicamente
+- Manipulando textos dinamicamente
+- Manipulando a posição no DOM
+- Eventos dinâmicos e mais conceitos
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

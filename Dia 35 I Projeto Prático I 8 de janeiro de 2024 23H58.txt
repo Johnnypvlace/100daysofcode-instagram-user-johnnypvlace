@@ -1,0 +1,14 @@
+# Dia 35
+
+# Dia 35|100 🧩 O Foco é não Desanimar, mesmo em meio a Bug e+
+
+Esperava mais do dia 35/100, acabei pegando um bug no código, na qual minha nova <section> acaba indo para o topo de página, sobrepondo o <header> e a <section> onde tinha o banner do site, dito isso, foram 1h procurando o erro, e arrumando.
+a idéia é não desanimar, mesmo com esse bug, que ocasionou do dia não ser tão produtivo quanto eu queria, amanhã tem mais🙏🏻
+
+Código:
+
+- 3H Trabalhando no Projeto “ Consultoria, Compra e Venda de Carros“
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

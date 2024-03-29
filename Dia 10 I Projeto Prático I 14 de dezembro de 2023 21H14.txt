@@ -1,0 +1,20 @@
+# Dia 10
+
+# Dia 10|100 🧩 Totalmente entusiasmado com o projeto, e já se passaram 10 dias do Projeto de 100 Dias!!
+
+Estudo:
+
+- TAG ‘*clear*: both’
+- Extensão Window Resizer (Esta extensão redimensiona a janela do navegador para emular várias resoluções. É particularmente útil para web designers e desenvolvedores, ajudando-os a testar seus layouts em diferentes resoluções de navegador.)
+- ‘@media screen and (max-width: _px) {}’: Surgiu a necessidade de tornar algumas seções responsivas, inclusive utilização de 'display: none' (propriedade CSS para tornar um elemento completamente invisível) na resolução que escolhi, que foi de 1027px, para evitar conflitos com o meu formulário (<form></form>).
+
+Solicitei ao ChatGPT que me fornecesse alguns textos para utilizar no site, em vez de recorrer ao "Lorem Ipsum". Dessa maneira, a página terá uma aparência mais autêntica.
+
+Código:
+
+- 3H Trabalhando no Projeto ‘ Empresa de Entregas ‘
+- 
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

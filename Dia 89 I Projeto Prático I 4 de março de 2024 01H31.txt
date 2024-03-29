@@ -1,0 +1,16 @@
+# Dia 89
+
+# Dia 89|100 🧩 Dificuldade na seção ‘ Passo a Passo ‘, Demora pra finalização, e+
+
+A leve dificuldade para efetuar a seção ‘ passo a passo ‘ do projeto, é algo que eu jamais havia feito, e ocorreu de haver uma leve bagunça na infinidade de ‘ float ‘ da seção ao lado da ‘ passo a passo ‘
+creio que terei que refazer a seção das imagens em circulo, nao gostei do resultado final…
+ou será refeito, ou abandonado, e seguirei somente com o passo a passo ao centro da tela.
+A demora para a finalização do Projeto esta grande, dado a grande quantidade de coisas feitas que jamais esteve em projetos anteriores aqui, estou curtindo o projeto e estou entusiasmado em ver como ficará o final dele.
+
+Código:
+
+- 1H30Min Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

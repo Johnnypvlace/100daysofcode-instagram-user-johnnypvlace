@@ -1,0 +1,22 @@
+# Dia 75
+
+# Dia 75|100 🧩 Bloco curto, Animate, Interval e Timout
+
+Pequeno Bloco para logo em seguida, vir um novo Projeto Prático.
+
+Estudo:
+
+- Formulário com JQuery
+- Efeitos e animações
+- Animate, interval e timeout
+- Manipulando classes dinamicamente
+- Clonar e mover elementos
+- O que é ajax
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

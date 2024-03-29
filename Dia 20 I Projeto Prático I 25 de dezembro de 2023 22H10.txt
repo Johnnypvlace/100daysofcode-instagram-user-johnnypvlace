@@ -1,0 +1,23 @@
+# Dia 20
+
+# Dia 20|100 🧩 Pequena pausa para o Natal, Mas já voltamos com um bug!
+
+Não precisei ligar o notebook na viagem, consegui chegar em casa a tempo, então já liguei o computador, para continuar o Desafio, e o Projeto Atual.
+
+Estou enfrentando um problema, na qual minha imagem esta ‘transpondo’ meu texto, devido a imagem ter que estar com ‘ position: relative; ‘
+não estou conseguindo respostas de como solucionar este problema.
+
+Estudo:
+
+- line-height
+- cursor: pointer;
+
+Código:
+
+- 40min Trabalhando no Projeto ‘ Empresa especializada na Criação de Websites ‘
+
+(Por ser quase ínicio do dia seguinte, estarei enviando esse vídeo, porém, por trás das câmeras estarei cumprindo os requisitos do Desafio)
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

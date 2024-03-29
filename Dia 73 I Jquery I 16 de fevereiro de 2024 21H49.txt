@@ -1,0 +1,28 @@
+# Dia 73
+
+# Dia 73|100 🧩 jQuery Mobile e jQuery UI, e+
+
+Ainda formando um opinião sobre Frameworks, ninguém nunca me perguntou, mas, a princípio acho que usar a linguagem de programação na forma ‘ pura ‘ ainda é melhor, ainda acho que haja uma ‘ liberdade ‘ melhor do que se tem usando um framework.
+
+jQuery UI é uma biblioteca de interface de usuário para JavaScript que é construída sobre o framework jQuery. Ela fornece uma variedade de componentes de interface de usuário interativos e prontos para uso, como widgets, efeitos e utilitários, projetados para simplificar o desenvolvimento de aplicativos web interativos e responsivos.
+
+jQuery Mobile é uma estrutura de desenvolvimento de aplicativos da web otimizados para dispositivos móveis. Ele é construído sobre o jQuery e oferece uma série de recursos e componentes para criar interfaces de usuário responsivas e amigáveis para dispositivos móveis.
+
+Estudo:
+
+- jQuery UI #1
+- jQuery UI #2
+- jQuery UI #3
+- jQuery UI #4
+- jQuery UI #5
+- jQuery Mobile #1
+- jQuery Mobile #2
+- jQuery Mobile #3
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

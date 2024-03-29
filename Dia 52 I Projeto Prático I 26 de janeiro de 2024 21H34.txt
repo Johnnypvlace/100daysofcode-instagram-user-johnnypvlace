@@ -1,0 +1,20 @@
+# Dia 52
+
+# Dia 52|100 🧩 Início Definitivo do Projeto, Algumas seções já feitas, Slider e+
+
+Projeto começou, e algumas dificuldades em tirar o projeto do slide do papel, planejo colocar 3 imagens na qual será um banner com o tema geral do site, porém, tem dado mais trabalho do que eu imagina, mas, estarei trabalhando nisso agora.👊🏻
+
+Também, Utilizei o Font Awesome, para acrescentar os icones mostrados no vídeo, no topo da página, muito fácil de usar.
+
+Estudo:
+
+- Font Awesome (Font Awesome é um conjunto de ferramentas de fontes e ícones com base em CSS e LESS).
+- Criação de Slide com JQuery
+
+Código:
+
+- 2H Trabalhando no Projeto “ Restaurante de Comida Japonesa“
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

@@ -1,0 +1,17 @@
+# Dia 86
+
+# Dia 86|100 🧩 Bug da Mente, Futuro do Projeto decidido, Seção ‘ Frase de Impacto ‘ e+
+
+Fiquei preso num bug que não era esperado, ao fazer a seção mostrada no vídeo, acabei utilizando o **Font Awesome** para conseguir a ‘’ Aspas”” ‘’ da seção, porém por automático existiu uma quebra de linha entre elas, já que não exite ícone único para abrir e fechar, ou seja, utilizei 2 itens para isso, e acabei utilizado um ‘ *display*: inline-block; ‘ na estilização dela, ao invés do correto que era o ‘ *display*: inline; ‘.
+o ‘ inline-block ‘ acabava travando meu texto (h2) e ao testar a reponsividade do site, fazia com que o texto ficasse bloqueado (como o próprio nome já diz: ‘block’), foi um erro comum, mas, que me tomou um tempo que eu não tinha, e seguimos com o Projeto!
+
+o que é o font awesome?
+= Font Awesome é um conjunto de ícones vetoriais escaláveis que podem ter personalizados, instantaneamente, o tamanho, cor, sombra, e outras características compatíveis com CSS.
+
+Código:
+
+- 1H40Min Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

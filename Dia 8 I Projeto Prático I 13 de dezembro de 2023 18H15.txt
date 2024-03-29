@@ -1,0 +1,19 @@
+# Dia 8
+
+# Dia 8|100 🧩 Retrocedendo a um projeto anterior
+
+No dia 6, mencionei minha insatisfação com os resultados do projeto, principalmente devido à pressa desnecessária. Diante disso, decidi recomeçar o projeto anterior do zero, porém, com uma abordagem reformulada. Estou planejando realizar algo completamente diferente.
+
+Estudo:
+
+- Análise dos Pré-Requisitos para inicialização do Projeto, A proposta inicial era criar uma landing page para promover um empreendimento comercial. No entanto, decidi optar por desenvolver uma landing page para promover uma empresa de entregas.
+- 
+
+Código:
+
+- 3H Trabalhando no Projeto Landing Page de Empresa de Transportes.
+- 
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

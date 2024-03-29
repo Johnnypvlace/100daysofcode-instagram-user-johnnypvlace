@@ -1,0 +1,19 @@
+# Dia 12
+
+# Dia 12|100 🧩 Bug Solucionado, e um bom adianto
+
+o Bug estava entre uma das seções, na qual surgiu uma margem que eu não coloquei no código, não descobri a raíz do motivo, mesmo lendo o código diversas vezes, acabei utilizando um ‘ margin-top ‘ :-10px para solucionar.
+
+Estudo:
+
+- TAG ‘ "flex-direction: row-reverse;” que inverte a ordem natural dos itens (Conforme Vídeo)
+- 
+
+Código:
+
+- 2H Trabalhando no Projeto ‘ Empresa de Entregas ‘ (95% Concluído)
+- 
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

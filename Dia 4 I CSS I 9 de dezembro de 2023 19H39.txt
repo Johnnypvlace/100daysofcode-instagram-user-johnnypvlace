@@ -1,0 +1,21 @@
+# Dia 4
+
+# Dia 4|100 🧩 Encerrado o Bloco de CSS3, e o Start aos blocos de Projetos Práticos #2,3 e #4,5
+
+1H20 memorizando algumas tags adicionais em CSS, concluindo assim o Bloco de CSS3. No próximo bloco, aguardam-me aproximadamente 4,5 projetos práticos, sendo um deles um template de Email Marketing. Estou bastante entusiasmado com o que está por vir na próxima etapa.
+
+Estudo:
+
+- Display Flex
+- Efeito gradient
+- Variáveis no CSS ‘:root{}’
+- Chrome dev tools
+
+Código:
+
+- Pequenos Códigos das aulas citadas acima
+- Organizando a mesa de trabalho para o início do próximo bloco.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

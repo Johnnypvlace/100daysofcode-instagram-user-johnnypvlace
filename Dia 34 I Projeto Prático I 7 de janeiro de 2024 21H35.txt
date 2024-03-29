@@ -1,0 +1,18 @@
+# Dia 34
+
+# Dia 34|100 🧩 Novo Projeto, Arte Criada, Imagens escolhidas e+
+
+e Chegamos no Último Projeto antes do Módulo onde contém apenas estudos, que é o Módulo de Javascript.
+
+Então, após a finalização desse Projeto, teremos alguns dias sem Código, porém, tenho algumas ideias para não ficar ‘ parado ‘ nesse meio tempo, e logo menos irei contar o que eu Planejo estar fazendo nesses dias.
+
+E Enquanto ao novo Projeto, Será uma Landing page de Consultoria, Compra e Venda de Carros Populares, e me parece algo mais tranquilo que o Projeto anterior, estou animado para este projeto, gostei muito do nome da empresa, das cores escolhidas, da logo do site, das imagens salvas, acompanhe comigo a criação e montagem de mais essa Landing Page! 🤩
+
+Código:
+
+- 2H Trabalhando no Projeto “ Consultoria, Compra e Venda de Carros“
+- 
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

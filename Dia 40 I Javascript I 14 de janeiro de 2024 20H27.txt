@@ -1,0 +1,27 @@
+# Dia 40
+
+# Dia 40|100 🧩 Iniciando com JavaScript, pausa na série de Projetos Práticos, Algumas ideias e+
+
+E Chegamos ao Início de um novo Bloco ‘ JavaScript e Lógica de Programação ‘ na qual haverá uma pausa na série de Projetos Práticos, Porém, tive algumas ideias neste tempo que ficaremos sem Projetos Práticos, Além do curso que estou fazendo, tem outros cursos incompletos na qual acabei deixando de lado para iniciar o atual, pois seria o roadmap que eu sigo, dito isso, penso em finalizar eles, e de conquistar o Certificado ao Final, e também gostaria de criar um destaque deles, junto com uma explicação do que é abordado no Curso, e darei andamento neles… resta saber o que falta para finalizar eles😎
+
+e Sobre o módulo atual (de Javascript), é algo bastante introdutório, logo de ínicio percebi isso, até porque esse não é o foco do Curso, por mais que o Curso atual seja de Front-end, o assunto Javascript será não tão completo, pois, já existe na plataforma um curso somente sobre o Tema Javascript, e assim seguiremos.
+
+Estudo:
+
+- Apresentação e conceitos
+- Hello world e lógica
+- O que são variáveis e como usar
+- Array e objetos
+- Sintaxe
+- Utilizando typeof
+- Operações matemáticas
+- Condições e operadores
+- Laços de repetição
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

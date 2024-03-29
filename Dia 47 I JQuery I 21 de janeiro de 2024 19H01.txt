@@ -1,0 +1,26 @@
+# Dia 47
+
+# Dia 47|100 🧩 Criação de Slider com JQuery, Fim de Bloco e+
+
+no dia 42/100, houve a necessidade da criação de um Slide, de imagens, porém, como ainda não havia chegado na aula de hoje, acabei criando com html e css, com o animation e os keyframes do css.
+e assistindo a aula da criação com JQuery, mostrou ser muito tão complicado quanto, ainda não tenho uma opinião formada sobre.
+E Chegamos ao fim do Bloco Teórico de JQuery, não vejo a hora de colocar o conteúdo visualizado nos próximos projetos, aguardem projetos Maiores!!**🤖**
+
+Estudo:
+
+Duração: 2H47Min
+
+- Animar elementos com base no scrolltop
+- Criando slider do zero responsivo
+- Tudo sobre plugins e como utilizar
+- Aplicando menu mobile em projetos
+- Scroll dinâmico nos menus
+- Criando plugin próprio
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

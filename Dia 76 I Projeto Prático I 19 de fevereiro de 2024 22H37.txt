@@ -1,0 +1,18 @@
+# Dia 76
+
+# Dia 76|100 🧩 Projeto 8, Projeto ‘ Página de Dentista ‘ e+
+
+Começamos o Dia com novo Projeto, Imagens selecionadas, Fonte Escolhida, logomarca Criada, e tudo pronto para iniciarmos esse Projeto que estou muito Animado em fazer.
+
+Se trata de uma Single Page, o Nome será ‘ Sorriso Perfeito ‘ nome escolhido novamente pelo chatgpt, a diferença é que, desta vez teremos um escopo do site, ou seja, tendo um layout prévio, facilitará muito nossa vida, penso em fazer cursos de designer ao fim do desafio, porém, até lá, precisamos de algumas ideias prontas.
+
+Código:
+
+- Pesquisa de Imagens
+- Elaboração da Logomarca
+- Criação do Repositório no Github
+- 1H Trabalhando no Projeto “ Página de Dentista“
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

@@ -1,0 +1,13 @@
+# Dia 28
+
+# Dia 28|100 🧩 90% do site concluído, primeira inserção do javascript e +
+
+O site esta 90% concluído, faltando apenas a implementação do formulário na seção 'Entre em Contato' e a integração com o Google Maps na seção 'Faça uma Visita'. Além disso, está prevista a finalização com um rodapé (<footer>) para encerrar o projeto. Este foi o desafio que mais demandou tempo, mas estou satisfeito e realmente aproveitando o processo de desenvolvimento. A prática diária está me permitindo ganhar mais agilidade, e futuros projetos semelhantes certamente não demandarão tanto tempo.
+
+Código:
+
+- 2H Trabalhando no Projeto ‘ Empresa especializada na Criação de Websites ‘
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

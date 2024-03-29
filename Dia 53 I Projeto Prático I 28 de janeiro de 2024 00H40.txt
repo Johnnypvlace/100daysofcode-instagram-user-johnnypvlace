@@ -1,0 +1,16 @@
+# Dia 53
+
+# Dia 53|100 🧩 Idéia do Slider, ficará para os Próximos dias, Section com Width de 25% e+
+
+A Idéia do Slider, deu errado.
+Tentarei fazer nos próximos dias, ou ao final do Projeto, porém, quero um Slider passando algumas chamadas na qual será feito com Photoshop.
+Acabei começando o Desafio mais tarde do que o Normal, Porém, estarei seguindo a partir do envio desde vídeo para o instagram;
+Abaixo do Slide, terá uma section com 25% de Largura para os 4 Itens, que conforme pode ser visto no vídeo, terá alguns descontos, algumas regras e+
+
+Código:
+
+- 1H Trabalhando no Projeto “ Restaurante de Comida Japonesa“
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

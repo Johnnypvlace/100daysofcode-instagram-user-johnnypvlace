@@ -1,0 +1,17 @@
+# Dia 93
+
+# Dia 93|100 🧩 Fim do Projeto? Footer finalizado, seção bandeiras de Cartão de Crédito e Verificação do Google e+
+
+E Chegamos ao fim do Projeto ‘ Página de Dentista ‘ para mim, o Projeto mais bonito de todos ao lado do Projeto ‘ Empresa de Entregas ‘ (Volte para em torno do dia 11 para caso queira ver o resultado).
+
+O Projeto Página de dentista durou muito tempo, mas, cada parte foi pensada, e gostei demais do resultado final, restando apenas alguns detalhes e media screen pendente, porém, não fará uma mudança no design final, dito isso, chegamos ao fim de mais um projeto!
+
+Sobre a parte final feita, nosso ‘ Footer ‘ tentei focar o máximo para deixar um <footer> grande, com bastante coisa, e ficou do jeito que eu queria, até coloquei as bandeiras de cartão de crédito e a verificação do google, definitivamente foi um dos <footer> maiores que já fiz, esse projeto precisava disso.
+
+Código:
+
+- 1H40Min Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

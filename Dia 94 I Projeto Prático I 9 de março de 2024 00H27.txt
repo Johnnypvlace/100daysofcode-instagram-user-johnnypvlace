@@ -1,0 +1,13 @@
+# Dia 94
+
+# Dia 94|100 🧩 Último dia do Projeto Prático ‘ Página de Dentista ‘, Finalização, Design Responsivo, Github e+
+
+O Dia de hoje foi separado para algumas correções na parte de media screen (Design responsivo), cuidamos para evitar algumas quebras de linhas comum no site, gostei do resultado final das correções, subi para o github, e finalizamos mais um projeto aqui no desafio de 100 dias, devemos voltar com as aulas de temas interligados ao front-end
+
+Código:
+
+- 1H20Min Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

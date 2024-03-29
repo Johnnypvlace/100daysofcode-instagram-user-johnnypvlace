@@ -1,0 +1,16 @@
+# Dia 60
+
+# Dia 60|100 🧩 **Repaginada necessária, Banner criado e+**
+
+Não estava satisfeito com as cores da primeira ideia do site, então, deixei para fazer uma mudança quando fosse feito o banner principal do site.
+ao final, gostei das cores escolhidas, que acaba deixando a cor Vermelha (Padrão dos sites de comida japonesa) e apostei em laranja/amarelo, não vi necessidade de mudar a cor da fonte da alogo do site, achei que combinou bastante.
+
+como disse no vídeo anterior, resta apenas o <footer> para finalizarmos o site!
+
+Código:
+
+- 1H Trabalhando no Projeto “ Restaurante de Comida Japonesa“
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

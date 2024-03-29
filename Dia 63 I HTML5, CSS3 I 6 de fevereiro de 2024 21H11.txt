@@ -1,0 +1,22 @@
+# Dia 63
+
+# Dia 63|100 🧩 Novo Bloco, HTML5 Avançado e CSS3 Avançado e+
+
+Novo bloco, que se trata de HTML5 Avançado e CSS3 Avançado, passando por Grids, Canvas e+
+Não é um bloco muito grande, mas, estou ansioso por mais esse conteúdo.
+
+Estudo:
+
+- Conhecendo as grids do CSS3
+- Grids 1/2
+- Grids 2/2
+- Iniciando com canvas
+- Mais sobre canvas
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

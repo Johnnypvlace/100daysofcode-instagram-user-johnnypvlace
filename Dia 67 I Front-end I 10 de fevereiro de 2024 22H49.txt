@@ -1,0 +1,22 @@
+# Dia 67
+
+# Dia 67|100 🧩 Um Pé nos Frameworks de Javascript, Fim do bloco de Macetes de Front-end e+
+
+Acabo de verificar que o próximo bloco, terá react + angular, e tive uma breve passagem com angular em meu emprego anterior, e achei interessante, creio que venha a ser algo bem leve sobre o tema, pois o curso não irá se aprofundar muito, já que na plataforma contém curso apenas de angular ou apenas de react, mas, já é um avanço.
+
+Estudo:
+
+- O segredo do inline-block
+- Meta dados para SMO
+- Metodologia BEM
+- Entendendo mobile first na prática
+- Criando efeito de menu fixo
+- Resetando estilos para mobile
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

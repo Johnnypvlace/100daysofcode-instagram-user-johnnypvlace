@@ -1,0 +1,24 @@
+# Dia 68
+
+# Dia 68|100 🧩 Novo dia, Novo bloco ‘ JavaScript Avançado, Bibliotecas e Frameworks JS ‘ e+
+
+Busquei a Explicação pra Piada do ’Framework’  Vanilla JS, e achei Genial, já havia visto pessoas fazendo referência como se fosse realmente um framework, porém, não é (creio que nem todos saibam da piada).
+
+Sobre o bloco, ainda é o começo dele, porém, sei que daqui vão sair muitos frutos positivos.
+
+Estudo:
+
+- Introdução e exemplos Vanilla JS (JavaScript puro, sem frameworks ou bibliotecas externas)
+- Estilizando com base no ID
+- Dominando querySelector
+- Eventos JS
+- Session e local storage
+- Push notifications
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

@@ -1,0 +1,19 @@
+# Dia 30
+
+# Dia 30|100 🧩 Desabafo, Novo Projeto em andamento e+
+
+Iniciando o novo Módulo, e neste Módulo contém o Projeto #4 e #5 e logo em seguida a inserção do javascript, gostaria muito de pular direto para o javascript, pois, os dias estão passando e começa a transparecer que o desafio 100Diasdecodigo é apenas projetos práticos, mas também tem os estudos.
+porém, acabei pegando dois módulos seguidos com projetos (total de quatro) projetos seguidos, porém, darei o meu máximo para agilizar esses projetos o mais rápido possível, gostaria de iniciar o Módulo de Javascript ainda antes do dia 40/100, será possível?
+Restam 10 dias e 2 Projetos para Criar e Finalizar.
+
+e Falando sobre o Projeto em questão, A proposta inicial era criar um site de Dentista. Porém, decidi optar por criar um site para promover o Espaço Fitness de um Condomínio Fictício.
+
+Dito isso, o Nome será ‘ Espaço Fitness ‘ do Condomínio ‘ Condomínio Mirante do Vale ‘ nome escolhido pelo chat gpt😂
+
+Código:
+
+- 3H Trabalhando no Projeto “ Espaço Fitness de Condomínio “
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

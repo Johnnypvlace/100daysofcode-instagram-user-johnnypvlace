@@ -1,0 +1,22 @@
+# Dia 97
+
+# Dia 97|100 🧩 Fim do Bloco Sass e Less, Novo Projeto, uma Idéia, um Certificado, uma possível Extensão dos 100 Dias de Desafio, e +
+
+Chegamos ao fim do Bloco de Sass e Less, logo em seguida estava no road map o Projeto de Número (10) , que de acordo com o meu github seria o projeto de número (9), devido um projeto ter sido solicitado com base em Materialize, e um outro com base em Bootstrap, na qual acabei não seguindo, no momento quero obter o máximo de conhecimento da Linguagem mais Pura possível, mas em seguidar cair de cabeça em frameworks.
+
+E Então, seguiremos com um Projeto rápido, até mesmo já pensei no que será, optei por criar um Site de uma Plataforma de Cursos Online, de todos os projetos que fizemos até aqui, nunca fizemos um nesse nicho, e me parece um bom -Último Projeto- o mesmo será válido para finalização e recebimento de certificado de um outro curso na qual comecei antes do desafio de 100 Dias, porém, não terminei por focar totalmente no curso atual, e para colher o Diploma do curso restava apenas (1) Projeto, que acabei fazendo, porém, nao gostei do resultado final dele, então, atualmente com um pouco mais de conhecimento é o melhor momento para colher o diploma dele, com esse último Projeto!
+
+Estou postando o vídeo antes de bater a meta diária de tempo, mas, continuarei normalmente a partir daqui, O site será simples, <header> já foi feito, creio que teremos 3,4 seções apenas.
+
+Certamente iremos ultrapassar os 100 Dias de Desafio, porém, sem problemas, e assim Seguimos!!
+
+Código:
+
+- Pesquisa de Imagens
+- Elaboração da Logomarca
+- Criação do Repositório no Github
+- 1H10Min Trabalhando no Projeto “ Página de Cursos Online“
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

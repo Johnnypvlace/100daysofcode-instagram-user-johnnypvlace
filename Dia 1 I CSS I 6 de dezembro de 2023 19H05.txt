@@ -1,0 +1,18 @@
+# Dia 1
+
+# Dia 1|100 🧩 Novo Módulo desbloqueado: Conhecendo na Prática o CSS3
+
+Estudo:
+
+- Animações em Css com a Tag ' transitions ‘
+- Criação de Animações usando o Keyframes do Css
+- Word-wrap,word-break e white-space
+
+Código:
+
+- 1h Finalizando o Projeto Clone do Discord Web, e também já subi o próprio para o GitHub. Coloquei o resultado final nos Destaques 'P 🙂' no perfil deste Instagram.
+- Início do projeto (kick-off) do Burguer King, a proposta original era criar uma página semelhante à do Starbucks. No entanto, decidi me desafiar a criar algo único e diferente.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

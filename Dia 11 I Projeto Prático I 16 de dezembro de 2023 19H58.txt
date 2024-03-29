@@ -1,0 +1,15 @@
+# Dia 11
+
+# Dia 11|100 🧩 Cada dia mais fascinado com o Design Responsivo
+
+Peguei um bug no Layout e estou tentando organizar, lendo o código todo novamente até encontrar o erro, espero encontrar o problema na seção pela metade rápido.
+
+Código:
+
+- position: static;
+- Trabalhando no design responsivo do Projeto ‘ Empresa de Entregas ‘
+- Trabalhando no Projeto ‘ Empresa de Entregas ‘
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

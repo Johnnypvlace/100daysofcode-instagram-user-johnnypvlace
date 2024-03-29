@@ -1,0 +1,17 @@
+# Dia 91
+
+# Dia 91|100 🧩 91% do Projeto, A Volta de seção “ Depoimentos “, Alguns retoques, e+
+
+Atingimos o 91% do Projeto, restando apenas o <footer> para fechar.
+
+Apaguei a Tag que comentava o código da seção “ depoimentos “ seção criada anteriormente, mas que houve uma mudança na ordem das seções e ela ficou para ser a ultima seção antes do footer
+
+Também houve a necessidade de alguns retoques, no container principal, na Onda (Imagem) e no tamanho da logo do site.
+
+Código:
+
+- 1H30Min Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

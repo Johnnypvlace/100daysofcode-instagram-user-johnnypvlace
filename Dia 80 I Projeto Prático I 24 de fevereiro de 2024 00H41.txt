@@ -1,0 +1,17 @@
+# Dia 80
+
+# Dia 80|100 🧩 Segunda Seção do Projeto, Um Desejo por um fundo bg, A Busca pelos Ícones e+
+
+Chegamos na Segunda Seção do Projeto, onde estará algumas chamdas e afirmações (diferenciais) do intuito do site, que é um Site de um Consutório Dentista.
+
+Sinto a Falta de uma imagem (fundo bg) ao invés do Branco gelo no meu <header> principal, estarei procurando alguma imagem que venha seja boa para isso, gostaria que minha segunda seção fosse na cor Branca, ao invés de ter que mudar para a cor Azul, para que seja diferente da primeira seção feita.
+
+Também estive a Procura de alguns ícones para colocar no site, e escolhi alguns que me pareceram interessantes, ainda não sei pode haver uma mudança de ideia sobre o uso deles, não tinha da cor que eu gostaria (Azul, Cor da logo do Site) Acabei tendo que pintar pelo Photoshop, e assim seguimos com o Projeto.
+
+Código:
+
+- 1H30Min Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

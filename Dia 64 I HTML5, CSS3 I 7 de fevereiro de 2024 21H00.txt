@@ -1,0 +1,25 @@
+# Dia 64
+
+# Dia 64|100 🧩 Opinião sobre Display: grid, Continuação nas aulas e+
+
+Gostei da possibilidade com o ‘ Display: grid ‘ porém, não é como se fosse algo totalmente novo, eu costumava fazer as mesmas coisas com a funcionalidade ‘ float ‘, e penso em seguir usando float, acho que fica uma maneira simples para os projetos que acabamos produzindo aqui no desafio.
+
+e Sobre o ‘ Canvas ‘ (Citado no vídeo anterior, Canvas usa vários métodos para desenhar formas personalizadas (círculo, semicírculo, Retângulo e Quadrado) caracteres, e adicionar imagens.), é abstante similar ao ‘SVG’ dado suas poucas diferenças, para criação de formas.
+
+Achei bacana a possibilidade de criar isso, sem a necessidade de criar via photoshop e subir para o código em forma de imagem, usarei sempre que possível.
+
+Estudo:
+
+- Entendendo SVG
+- SVG avançado
+- Aprendendo a propriedade filter do CSS3
+- Transforms avançados
+- CSS Vendors
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

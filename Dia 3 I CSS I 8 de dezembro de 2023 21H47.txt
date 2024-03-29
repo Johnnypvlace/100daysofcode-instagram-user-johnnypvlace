@@ -1,0 +1,20 @@
+# Dia 3
+
+# Dia 3|100 🧩 Projeto Pessoal ‘ Página de um Grande fast-food ‘ Finalizado, e De Volta as Aulas
+
+de Volta ao Bloco “ Conhecendo na Prática o CSS3 “
+
+Estudo:
+
+- Transform e border-radius
+- Word-wrap,word-break e white-space
+- Display Table (CSS2)
+
+Código:
+
+- 2H Finalizando o Projeto ‘ DESAFIO ‘ Página de uma empresa de fast-aleatória
+- Pequenas atividades das Videoaulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

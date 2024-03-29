@@ -1,0 +1,17 @@
+# Dia 77
+
+# Dia 77|100 🧩 Dia 1 do Projeto 8, Jquery e+
+
+Primeiro dia de projeto, e com um bom avanço, colocamos um pequeno código de Jquery, na NAV do Header, juntamente com o cursor pointer, gostei do resultado do Javascript, acho que a logo do site combinou com o fundo ‘ Branco gelo ‘ do site.
+
+Estudo:
+
+- Efeito Hover no menu (NAV) com Jquery
+
+Código:
+
+- 2H Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

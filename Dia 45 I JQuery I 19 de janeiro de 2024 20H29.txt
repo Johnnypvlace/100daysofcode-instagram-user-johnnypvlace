@@ -1,0 +1,28 @@
+# Dia 45
+
+# Dia 45|100 🧩 Segundo dia de JQuery, Sinto falta dos projetos práticos e+
+
+E Chegamos no Segundo Dia de JQuery, do Bloco com o maior número de aulas extensas, realmente, Lógica de Programação com JQuery parece ser sim, um ‘ Bicho de 7 Cabeças ‘.
+Mas, comparado com JS ‘Puro’ para as Tarefas desejadas, JQuery é muito mais simples!
+
+Sinto Falta dos Projetos Práticos, vi que no bloco seguinte terá um, não vejo a hora de revelar o que será feito, ainda estou pensando no que fazer, eu nunca repito o mesmo da aula, sempre gosto de fazer algo diferente, porém, com a mesma proposta inicial.
+foi o Caso do Projeto nosso primeiro Projeto, No Curso foi proposto Recriar a Página inicial do Facebook, Porém, optei por fazer da tela inicial do Discord Web.
+
+ou até mesmo no Projeto 03, A proposta inicial era criar uma landing page para promover um empreendimento comercial. No entanto, decidi optar por criar uma landing page para promover uma Empresa de Entregas, E Seguimos**🤠**
+
+Estudo:
+
+- Formulário com JQuery
+- Efeitos e animações
+- Animate, interval e timeout
+- Manipulando classes dinamicamente
+- Clonar e mover elementos
+- O que é ajax
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

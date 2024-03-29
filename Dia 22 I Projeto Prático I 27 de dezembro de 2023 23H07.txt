@@ -1,0 +1,17 @@
+# Dia 22
+
+# Dia 22|100 🧩 Seção Finalizada e +
+
+Sobre a Seção, creio que ainda falte algo, talvez uma >ul> e <li> para ficar bastante recheada de informações
+
+Irei mudar a imagem de fundo dos desktops do device, da seção em questão, mas deixarei para mudar nos próximos dias…
+Ainda não sei qual imagem colocar, talvez seja a de um projeto antigo a princípio.
+
+Código:
+
+- 2H Trabalhando no Projeto ‘ Empresa especializada na Criação de Websites ‘
+- 
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

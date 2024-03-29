@@ -1,0 +1,15 @@
+# Dia 2
+
+# Dia 2|100 🧩
+
+Estudo:
+
+- 10Min Memorizando algumas tags de Css, Coincidentemente usei a tag ‘ -*z-index*: 1; ‘ para alocar um dos itens de minha Div em primeiro Plano + ‘ *overflow*: hidden;  ‘
+
+Código:
+
+- 2H no Projeto Pessoal ‘ Página de um Grande fast-food
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

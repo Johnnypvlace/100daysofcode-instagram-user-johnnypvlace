@@ -1,0 +1,15 @@
+# Dia 81
+
+# Dia 81|100 🧩 Seção ‘ Diferencial ‘ quase finalizada, Chatgpt e+
+
+Solicitei ao chatgpt que me crie algumas frases para cada um dos icones que salvamos no vídeo anterior, e gostei do resultado final, acho que definiu muito bem o que eu tinha em mente para cada um dos (6) icones.
+
+Tive um pequeno problema com o tamanho dos ícones, e tive que alterar o tamanho de todos eles via photoshop, uma vez em que subi ele para o Site direto no HTML, ao invés de ser pelo CSS (Acho melhor, mais direto, desde que o Ícone esteja numa dimensão OK). Estou Feliz de como será o resultado final dessa seção com esses ‘ Diferenciais ‘ vão ficar, em resumo, devo acabar dando um width: 33.3% em cada um dos quadrados (ambos tem o mesmo nome de <div>).
+
+Código:
+
+- 1H30Min Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

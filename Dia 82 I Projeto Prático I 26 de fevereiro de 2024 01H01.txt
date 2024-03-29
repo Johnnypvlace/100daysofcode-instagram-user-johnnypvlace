@@ -1,0 +1,14 @@
+# Dia 82
+
+# Dia 82|100 🧩 Seção ‘ Sobre ‘ com Problemas, Seção Anterior Finalizada, Problemas na Imagem selecionada e+
+
+Seção do vídeo anterior finalizada, conforme aparece no vídeo, porém, na nova seção (seção ‘ sobre ‘) não fostei da imagem, preciso achar uma nova imagem o quanto antes, de preferência uma imagem que nao tenham pontas nas bordas, estou pensando seriamente em clarear ao máximo para que nao fiquei algo quadrado, ainda estou vendo.
+e solicitei ao chatgpt para que me gerasse o texto dessa seção ‘ sobre ‘, e acabei perdendo algumas partes da gravação mas em especifico na codificação da seção nova, devido o celular parar a gravação sem motivo, não era por memória insuficiente, olhei e tinha espaço o bastante para a gravação.
+
+Código:
+
+- 1H30Min Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

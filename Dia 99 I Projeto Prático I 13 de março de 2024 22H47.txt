@@ -1,0 +1,20 @@
+# Dia 99
+
+# Dia 99|100 🧩 Nova seção Finalizada, um Pensamento Aleatório, Próximas ideias, Falta 1 Dia, e+
+
+Finalizamos a Seção ‘ chamada-2 ‘ (Tava sem criatividade para pensar em um nome bom para ela) seria basicamente algo haver de como é a metodologia da plataforma…
+Gostei do Resultado Final dela, pegamos algumas imagens no Site: Flaticon, Colocamos na cor dos Botões existes no site, e vejo que ficou muito bem com os botões do site Azul.
+
+Esse tipo de seção em que usamos o float: left ou right, não é algo incomum aqui, sempre usamos da mesma maneiro, mas, impressionante como sempre fazendo a mesma coisa, a gente ainda é capaz de esquecer algo tão básico…
+Acabei ficando um tempo parado tentando lembrar como organizar isso, quando fui ver, o motivo de não ter ficado da maneira que eu gostaria, foi simplesmente a falta de encapsular o <h2> e <p> em uma <div> para que pudesse usar o float: left ou right
+mas, como ouve uma inversão na ordem dos icones, acabei tendo que estilizar direto no html (nada muito anormal) e o resultado ficou muito bom!
+
+Acabo de ver que falta (1) dia para o fim do Desafio ‘ 100Daysofcode ‘ mas, como ainda estamos em projeto em andamento, vamos ultrapassar essa quantidade de dias, mas sem problemas, não tem nada melhor do que encerrar o desafio com um projeto!
+
+Código:
+
+- 1H30Min Trabalhando no Projeto “ Página de Cursos Online“
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

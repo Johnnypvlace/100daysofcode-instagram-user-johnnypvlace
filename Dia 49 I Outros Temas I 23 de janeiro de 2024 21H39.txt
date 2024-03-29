@@ -1,0 +1,28 @@
+# Dia 49
+
+# Dia 49|100 🧩 Criação de Templates de Email Marketing com Html e Css, Criação de Layout no Photoshop, Flexbox e Bootstrap e+
+
+Após o fim do bloco anterior, que foi o de JQuery, os blocos seguintes eram blocos mais curtos, com temas como:
+Criação de Templates de Email Marketing com Html e Css. e o outro bloco com temas como Criação de Layout no Photoshop.
+na parte da criação de email de email marketing com html e css, me foi interessante, nunca havia visto esse tipo de conteúdo, porém, no bloco em seguida, sobre criação de layout com photoshop, não me me ‘ Brilhou ‘ tanto os olhos, pois, era um tema que eu já havia visto, inclusive, tem vídeos aqui no ‘Desafio 100daysofcode’ na qual existem as manipulações com Photoshop.
+ao final, a possibilidade da criação do layout com photoshop, para em seguida desenvolver, sim, me brilha os olhos!
+na plataforma na qual estudo, existem cursos de web design com photoshop, e é um dos temas na qual eu quero ver adiante.
+
+— Fim de dois Blocos —
+
+Além dos temas acima, o novo bloco terá flexbox, e frameworks como Materialize e Bootstrap.
+
+Estudo:
+
+- Criando template de email marketing com html e css
+- Criando layout no Photoshop
+- FlexBox
+- Materialize framework
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

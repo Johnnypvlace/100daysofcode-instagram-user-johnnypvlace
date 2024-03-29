@@ -1,0 +1,19 @@
+# Dia 90
+
+# Dia 90|100 🧩 70% Do Projeto, uma Leve Sorte, Fim da seção ‘ passo a passo ‘, Futuro e+
+
+E Chegamos a 70% do Projeto, Falta muita pouca coisa para atingirmos a finalização dele, definitivamente foi um dos projetos mais bonitos que me recordo de ter feito, estou muito feliz com o que foi feito!
+
+Sabe quando a gente esta com sorte?
+Estava testando algumas dimensões da seção, e acabei fazendo com que o ‘ Overflow ‘ (A propriedade text-overflow do CSS determina como o conteúdo que ultrapassou a sua div e que não é mostrado ao usuário deve ser exibido.) acabasse aparecendo a * Barra de Rolagem*, mas, eu achei bem melhor com a barra de rolagem, ficou parecendo aqueles ‘ termos de uso ‘ comum em sites, achei que ficou muito bom!
+e resolvi manter, estou pensando até em colocar alguns parágrafos antes e depois da contagem de 1 a 6 de nosso passo a passo.
+
+Ainda tenho a seção avaliações escondida como forma de comentários, ou seja, possívelmente restará apenas um footer padrão, para a finalização do site!
+
+Código:
+
+- 1H40Min Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

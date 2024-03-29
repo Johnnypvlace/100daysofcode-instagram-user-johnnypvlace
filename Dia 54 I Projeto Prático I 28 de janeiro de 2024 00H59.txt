@@ -1,0 +1,19 @@
+# Dia 54
+
+# Dia 54|100 🧩 Seção Finalizada, e seguimos por+
+
+Seção divindo 20% width para cada item, finalizada.
+algo que já é simples de fazer, bastava elucidar que a section cobre 100% e os itens cobre 20% cada, e seguimos pensando em como fazer o layout, ainda não havia imaginado algo abaixo desta seção, apenas o slider, a seção citada, e como eu quero que seja o footer.
+novamente fiz uso do Font awesome para criação dos icones, e fiquei surpreso que ele tinham o ícone do ‘ PIX ‘
+
+Estudo:
+
+- Font Awesome (Font Awesome é um conjunto de ferramentas de fontes e ícones com base em CSS e LESS).
+
+Código:
+
+- 1H Trabalhando no Projeto “ Restaurante de Comida Japonesa“
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

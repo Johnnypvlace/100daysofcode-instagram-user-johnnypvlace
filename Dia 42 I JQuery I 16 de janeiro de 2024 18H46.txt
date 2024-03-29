@@ -1,0 +1,22 @@
+# Dia 42
+
+# Dia 42|100 🧩 Bloco Introduzindo jQuery, e Explicações sobre o Bloco Anterior e+
+
+Nos vídeos anteriores, destaquei que o conteúdo sobre JavaScript foi abordado superficialmente devido à ênfase no uso do jQuery, uma biblioteca JavaScript ‘ Rápida ‘, que Será seguida até o término do curso em questão. E Com isso, o Bloco dedicado ao JavaScript consistiu apenas na exploração da lógica, sem aprofundamento em outros aspectos.
+
+Estudo:
+
+- Iniciando com JQuery e eventos de carregamento
+- Importar o Jquery, Iniciar, e Funções para Iniciar
+- Manipulando CSS via JQuery
+- Comparações Códigos com jQuery x JavaScript
+- Introduzindo os eventos
+- Mais sobre eventos
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

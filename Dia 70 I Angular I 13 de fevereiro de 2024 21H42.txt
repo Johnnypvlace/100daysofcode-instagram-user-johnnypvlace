@@ -1,0 +1,24 @@
+# Dia 70
+
+# Dia 70|100 🧩 Angular JS, e mais AngularJS e+
+
+Não é segredo que o Curso que estou seguindo, é focado no Front-end Completo, ou seja, ele acaba passando por diversos temas *Web e também passando por Frameworks, o que já passamos por alguns em dias anteriores, e o da vez foi o Angular* JS*:
+
+É um framework JavaScript de código aberto mantido pela Google para a construção de SPA (sigla para Single Page Applications ou Aplicações de Página Única). Resumidamente, uma SPA é basicamente uma aplicação web construída em uma só página, na qual a interação e a navegação entre as sessões de uma página ocorrem de maneira a qual não é necessário recarregar a página em cada uma dessas mudanças.*
+
+Estudo:
+
+- Documentação pelo W3Schools
+- Angular 1/5
+- Angular 2/5
+- Angular 3/5
+- Angular 4/5
+- Angular 5/5
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

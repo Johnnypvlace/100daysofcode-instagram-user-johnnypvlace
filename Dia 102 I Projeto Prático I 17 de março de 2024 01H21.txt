@@ -1,0 +1,22 @@
+# Dia 102
+
+# Dia 102|100 🧩 Fim do Projeto ‘ Página de Cursos Online ‘ Seções, Futuro, e +
+
+E Chegamos ao fim do Projeto ‘ Página de Cursos Online ‘ o Último Projeto do Desafio 100Daysofcode, o Último projeto que faremos nesse Desafio, vale dizer que o Projeto será validado para o Recebimento de um Diploma do Curso ‘ Curso Web Design Express ‘ curso na qual eu havia iniciado antes do Desafio de 100dias, porém, não gostei do Projeto efetuado ao final dele para que pudesse receber o Diploma, e então, esse Projeto da Página de Cursos Online, será o estopim para que o recebimento do Diploma, vale dizer que o Curso Citado (Curso Web Design Express) da @Dankicode é um Curso de Desenvolvimento Front-end Rápido, com aulas rápidas, bastante teoria, mas, com Projeto…
+e como é sempre de Costume, eu não quis copiar o Site do Módulo, por ainda não ter muito conhecimento, e então, atualmente, com uma bagagem maior de Projetos feitos, cuidei para que esse Projeto que encerra o Desafio de 100Dias, possa ser o Projeto final desse curso na qual estava incompleto.
+
+Vale dizer que o Curso acompanhado em todo esse Desafio de 100 Dias, era o Curso ‘ Curso Webmaster Front-End Completo ‘ na qual saímos do 0% até o 71% de Progresso nele, é o curso mais completo da plataforma, que vai desde a teoria, até em todos esses projetos práticos que fizemos até aqui.
+
+Sobre a Finalização do Projeto:
+Projeto Finalizado, restavam apenas duas seções para o encerramento final, a seção garantia + footer, e gostei do resultado final dele, certamente foi um dos que eu mais gostei de fazer
+
+Sobre o Futuro:
+Estou planejando um novo desafio, não será de 100 Dias, porém, ainda estou alinhando as coisas, e será de Javascript puro, Aguardem!
+
+Código:
+
+- 50Min Trabalhando no Projeto “ Página de Cursos Online“
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

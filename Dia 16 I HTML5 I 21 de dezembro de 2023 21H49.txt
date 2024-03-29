@@ -1,0 +1,26 @@
+# Dia 16
+
+# Dia 16|100 🧩 O Fim do bloco de CSS, e Seguimos firmes!
+
+Sobre a tag: <iframe></iframe>
+
+A tag <iframe> em HTML (Inline Frame) é usada para incorporar outro documento HTML dentro de uma página web. Essa tag permite que você exiba uma página da web dentro da sua própria página, criando assim uma área onde o conteúdo de outra página pode ser exibido.
+
+Achei fascinante a ideia de 'imprimir' uma página por meio de um link utilizando a tag **`<iframe>`**. Isso inspirou várias ideias criativas para mim. 🧐
+
+Estudo:
+
+- fieldset
+- Criando uma galeria de imagens utilizando responsivo
+- Float e inline-block para o design responsivo
+- <imput type=”date” />
+- <imput type=”color” />
+- Manipulando videos e iframes
+
+Código:
+
+- Ínicio do Projeto 4
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

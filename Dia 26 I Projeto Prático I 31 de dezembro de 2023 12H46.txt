@@ -1,0 +1,16 @@
+# Dia 26
+
+# Dia 26|100 🧩 Um Bug para ficar Refletindo a Virada do Ano inteira e+
+
+Peguei um bug na qual minha Terceira <Section> por algum motivo, fica no meio da Primeira section e da Segunda section, não sei como isso pode acontecer, já li o código 2x e nada de encontrar o motivo disso tudo, não creio que o problema esteja no css, já que é um código tão simples, mas terei que desvendar mais este Mistério.
+
+a Seção nova é a seção apresentada no início do Vídeo, na qual contém um Lorem Ipsum da equipe, mas o nome do autor.
+
+Código:
+
+- 1H Trabalhando no Projeto ‘ Empresa especializada na Criação de Websites ‘
+- 
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

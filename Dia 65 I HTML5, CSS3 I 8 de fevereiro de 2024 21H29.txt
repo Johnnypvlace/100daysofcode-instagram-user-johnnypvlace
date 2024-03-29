@@ -1,0 +1,25 @@
+# Dia 65
+
+# Dia 65|100 🧩 Fim do Bloco, Animate css e+
+
+E chegamos ao fim de mais um bloco, o bloco seguinte é o ‘ Técnicas/Macetes para Desenvolvimento Front-End ‘
+
+onde tem alguns temas que me brilhou os olhos, que são:  Criando menu vertical com submenu, Entendendo mobile first na prática, Smooth Scroll para mobile e+
+
+E Sobre o dia de hoje, gostei do site ‘ Animate css ‘ que é uma biblioteca de animações CSS pré-definidas que você pode usar facilmente em seus projetos web, existem animações bem legais, como, deixar um <h1> (Título) ou <p> (parágrafo) saltando, e fazendo umas movimentações diferentes, comecei a pensar se teria usado em algum projeto anterior, e a resposta é sim, usaria no projeto da página de fasfood crianda logo no ínicio deste desafio.
+
+Estudo:
+
+- Column property
+- CSS Vendors
+- Transforms avançados 2
+- Animate css
+- Figures
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

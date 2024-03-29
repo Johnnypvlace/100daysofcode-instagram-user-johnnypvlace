@@ -1,0 +1,22 @@
+# Dia 41
+
+# Dia 41|100 🧩 Segundo dia de novo módulo e+
+
+E Chegamos no Segundo dia do Módulo, e percebo que já estou quase no fim dele, o Módulo de Javascript desse curso é algo bastante introdutório mesmo, tanto que foi repassado uma pequena lógica de como funciona a linguagem, e logo em seguida estar vir o novo módulo de JQuery que se trata de uma biblioteca de JavaScript rápida, pequena e rica em recursos. Ela simplifica a manipulação de documentos HTML, manipulação de eventos, animações e interações.
+e por esse motivo teve toda essa introdução da Linguagem, mesmo que de forma ‘ rasa ‘, é que realmente esse não era o foco, o foco será Dominar o JQuery.
+
+Estudo:
+
+- Funções
+- Google Maps API (Documentação), Leitura, Explicação e Funcionalidades.
+- Mais sobre laços de repetição
+- Switch e case
+- Usando "promises”
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

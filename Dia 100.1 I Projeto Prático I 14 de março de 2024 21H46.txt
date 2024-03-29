@@ -1,0 +1,22 @@
+# Dia 100.1
+
+# Dia 100|100 🧩 (Parte 1) Chegamos ao fim do Desafio 100DaysofCode ‘100DiasdeCódigo‘?, Metade do Projeto Final feito, Seção Depoimentos feita, e+
+
+E chegamos ao dia 100/100 de Desafio!
+
+Desafio que consistia em dedicar pelo menos uma hora por dia, durante 100 dias consecutivos, para aprender e/ou aprimorar habilidades de programação.
+O objetivo era estabelecer o hábito de codificar regularmente, Estou extremamente feliz por ter concluído o Desafio, Ao longo desses 100 dias, mergulhei de cabeça no mundo da programação Front-end e aprendi mais do que imaginei antes de iniciar o Desafio, Além do temas de Estudos, também aprendi sobre perseverança, disciplina e a importância de manter o foco em meus objetivos, Estou profundamente Feliz por essa experiência e empolgado com as próximas que estão por vir, Este é apenas o começo de uma jornada emocionante e estou ansioso para ver onde minha paixão pela codificação me levará a seguir!
+
+Sobre o Dia de hoje, foi um Dia Produtivo, acabamos finalizando Duas seções, o que me fez recortar o dia de hoje em (2) Vídeos (Parte 1/2, Parte 2/2)
+
+Parte 1/2:
+Finalizamos a Seção ‘ Depoimentos/Avaliações ‘ A Escolha pela Imagem não tinha como ‘ornar’ menos com o Site, Site que consiste em uma plataforma de Cursos Front-end (mesmo tema abordado no Desafio que acaba de se encerrar)
+Mas, calma! o Projeto ainda não foi Finalizado, por isso iremos esticar mais alguns dias, até que o Projeto esteja Finalizado!
+
+Código:
+
+- 2H20Min Trabalhando no Projeto “ Página de Cursos Online“
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

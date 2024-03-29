@@ -1,0 +1,30 @@
+# Dia 66
+
+# Dia 66|100 🧩 Técnicas/Macetes para Desenvolvimento Front-End e+
+
+Bloco curto, com poucas aulas, porém, extensas…
+seguimos focado no curso, e já atingimos a marca de 54% de progresso para a finalização do curso!
+
+A Aula que eu mais me brilhou os olhos foram a de ‘ Sticky Footer ‘ Um "Sticky Footer" (rodapé fixo) é um elemento de design usado em sites ou aplicativos da web que permanece fixo na parte inferior da página, independentemente de quanta ou quão pouco conteúdo esteja na página. O termo "sticky" refere-se à capacidade do rodapé de permanecer visível mesmo quando o usuário rola para baixo a página.
+
+no Projeto ‘ Empresa de Entregas ‘ tive uma breve ideia de um rodapé fixo, porém, acabei mudando de ideia rapidamente, por ter tentado utilizar apenas a ‘ *position*: static; ‘ porém, não exatamente da maneira que eu queria.
+estarei usando sim, o conteúdo adquirido nessa aula.
+
+Estudo:
+
+- Criando menu com submenu responsivo 1/2
+- Criando menu com submenu responsivo 2/2
+- Sticky Footer
+- Criando menu vertical com submenu
+- Responsive height
+- Compatibilidade IE e CSS Hacks
+- HTML Entities
+- Smooth Scroll para mobile
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

@@ -1,0 +1,15 @@
+# Dia 85
+
+# Dia 85|100 🧩 Uma ideia Melhor, Em busca da Onda, Ideia na seção ‘ Depoimentos ‘, e+
+
+Não prosseguimos com a ideia do ‘ Vetor Fita ‘ optamos por uma apenas um título com uma linha na esquerda e na direita, achei uma ideia melhor devido ser menos chamativo do que seria uma ‘ fita azul ‘ na esquerda de cada seção.
+
+Achei um bom vetor de Onda, estou pensando em colocar logo acima da seção depoimentos, e alterar a cor da seção em questão ‘ background-color: cor da onda ‘ para tenhamos uma seção diferente e sairmos do ‘ Branco padrão ‘, to muito animado, bora ver se vai dar certo.
+
+Código:
+
+- 1H20Min Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

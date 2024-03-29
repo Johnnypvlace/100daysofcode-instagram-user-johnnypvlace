@@ -1,0 +1,66 @@
+# Dia 95
+
+# Dia 95|100 🧩 Novo bloco, Sass e Less, e+
+
+Dia de Sass, O SASS é uma linguagem de extensão do CSS, a sigla significa “Syntactically Awesome Style Sheets” traduzindo ao pé da letra, folhas de estilo com uma sintaxe incrível. A sua ideia é adicionar recursos especiais como variáveis, mixins, funções e operações e outras opções variadas que iremos comentar. O SASS tem como objetivo tornar o processo de desenvolvimento mais simples e eficiente
+
+Opinião: Até o momento utilizar o Saas nao me brilhou os olhos, a ideia que é ser um ‘ facilitador ‘ de melhor escrever um código de css, parece nao me ajudar, por exemplo:
+
+Vejamos abaixo um código em CSS Puro:
+
+nav ul {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+nav li {
+display: inline-block;
+}
+nav a {
+display: block;
+padding: 6px 12px;
+text-decoration: none;
+}
+
+Vejamos Abaixo o Exato mesmo código, porém em Sass:
+
+nav
+   ul
+   margin: 0
+   padding: 0
+   list-style: none
+
+ li
+   display: inline-block
+
+a
+   display: block
+   padding: 6px 12px
+   text-decoration: none
+
+_________________________________________________________
+
+Conclusão:
+
+O SASS nos fornece novas funcionalidades que agregam, facilitam e simplificam o processo de desenvolvimento. Para aqueles que estudam web design, o SASS acaba sendo uma ótima ferramenta, pois além dos recursos, possui uma sintaxe fácil de compreender.
+
+Opinião: Não me parece ser tanta vantagem assim, não me tornaria o Rei da Produtividade com essa tecnologia, porém, achei interessante a existência dela, certamente pode ser vantagem para muitas pessoas.
+
+Estudo:
+
+- Introduzindo e entendendo os pré processadores Sass
+- Instalando e configurando ferramenta Koala (Koala é um aplicativo GUI para compilação Less, Sass entre outras.)
+- Dominando Sass @1
+- Dominando Sass @2
+- Dominando Sass @3
+- Dominando Sass @4
+- Dominando Sass @5
+- Dominando Sass @6
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

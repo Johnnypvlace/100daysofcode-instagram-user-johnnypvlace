@@ -1,0 +1,28 @@
+# Dia 72
+
+# Dia 72|100 🧩 Vue Js, e mais Vue Js e+
+
+Não é segredo que o Curso que estou seguindo, é focado no Front-end Completo, ou seja, ele acaba passando por diversos temas *Web e também passando por Frameworks, o que já passamos por alguns em dias anteriores, e o da vez foi o* Vue Js*:*
+
+Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única.
+
+Vue JS **é muito utilizado para criar aplicações single page (página única) e também para desenvolver vários tipos de interfaces**, que possuem necessidades de maior interação e experiência mais valorosa para o usuário.
+
+E Chegamos a uma série de Conteúdo sobre Frameworks Javascript, passamos por Angular, React e agora, passamos por VueJS, sem contar o VanillaJS**😂😂😂😂**
+
+Estudo:
+
+- Vue JS 1/4
+- Vue JS 2/4
+- Vue JS 3/4
+- Vue JS 4/4
+- Animações com javascript puro
+- Promisses, Async e await
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

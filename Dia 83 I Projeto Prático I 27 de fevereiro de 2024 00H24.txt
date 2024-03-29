@@ -1,0 +1,16 @@
+# Dia 83
+
+# Dia 83|100 🧩 Seção Depoimento, Problemas no Photoshop, algumas ideias e+
+
+Estou fazendo a seção ‘ Depoimentos ‘, Porém, apenas (1) depoimento me parece pouco, penso em colocar umas 5,6.
+Gostei da Imagem ‘ Escopo ‘ para os Depoimentos, Porém, acho que não combou com a seção de cima ‘ sobre ‘, e devido a isso, penso em abolir a seção ‘ sobre ‘ para encaixar uma seção com as avaliações…
+
+Tive um problema no photoshop, na qual, não me permite pintar com a exata cor que eu selecionei, tentei resolver e não consegui, tomara que não seja um problema que persista, pois, penso em colocar as cores da imagem de ‘ depoimentos ‘ com o mesmo tom da logo do site, me parece a melhor opção a ser seguida.
+
+Código:
+
+- 1H30Min Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

@@ -1,0 +1,15 @@
+# Dia 92
+
+# Dia 92|100 🧩 Dia por continuar, ainda resta as @media screen, footer e +
+
+Vídeo postado antes da finalização do dia, preciso continuar a concluir o projeto, ainda restando a Finalização do Footer e as @media screen para finalizar o site, um projeto que demorou mais tempo que o Normal, mas que foi o que eu mais fiquei surpreso com o resultado final, por isso estou planejando uma produzir uma outra logomarca para colocar no <footer>, já que a logo principal do site não ficou legal, pois terá exatamente as mesmas cores do fundo da logo, também utilizei o nosso https://fontawesome.com/ para obter os icones que teremos no <footer>.
+
+esse é o tipo de projeto que definitivamente estará no meu portifólio pendente pra fazer, na qual gostaria de expor alguns projetos, e definitivamente acabaremos o projeto quase que na reta final do Desafio!
+
+Código:
+
+- 40min Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

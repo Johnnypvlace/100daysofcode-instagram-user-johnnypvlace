@@ -1,0 +1,21 @@
+# Dia 5
+
+# Dia 5|100 🧩 Proposta de Projeto Prático Recebido
+
+O projeto consiste em uma landing page, e a vantagem de ser uma landing page é que ela incorpora formulários, é responsiva e serve como um excelente aquecimento para a sequência de projetos que estão por vir.
+
+Estudo:
+
+- Análise dos Pré-Requisitos para inicialização do Projeto, A proposta inicial era criar uma landing page para promover um empreendimento comercial. No entanto, decidi optar por desenvolver uma landing page para promover uma loja de aluguel de carros de luxo.
+- 
+
+Código:
+
+- Criação do Repositório no Github
+- Início do Projeto
+- Pequenos Design no Photoshop
+- 4H Trabalhando no Projeto Landing Page de Aluguel de carros de luxo.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

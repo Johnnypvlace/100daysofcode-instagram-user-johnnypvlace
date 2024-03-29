@@ -1,0 +1,23 @@
+# Dia 13
+
+# Dia 13|100 🧩 De voltas as Aulas
+
+E com o fim do Projeto prático, vamos para mais Aulas de Tags para fixar na memória, até o Próximo projeto que promete ser algo maior do que o anterior.
+
+Estudo:
+
+1H
+
+- **[Limitando as dimensões](https://cursos.dankicode.com/campus/curso-front-end-completo/limitando-as-dimensoes) com CSS**
+- [A propriedade display e técnicas de espaçamentos](https://cursos.dankicode.com/campus/curso-front-end-completo/a-propriedade-display-e-tecnicas-de-espacamentos)
+- Margin-bottom
+- Letter Spacing
+
+Código:
+
+- Atividades em conjunto com a videoaula
+- 
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

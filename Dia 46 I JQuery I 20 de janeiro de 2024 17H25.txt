@@ -1,0 +1,23 @@
+# Dia 46
+
+# Dia 46|100 🧩 Terceiro dia de JQuery, e Fascinado com as Inúmeras Possibilidades e+
+
+Nas Aulas de hoje, teve a criação de uma Janela Modal:
+Uma **janela modal** é uma sobreposição à página principal que geralmente é usada para exibir informações adicionais ou interagir com o usuário de maneira específica. Ela é chamada de "modal" porque cria um modo que prende o foco do usuário até que seja fechada.
+
+Imaginando um exemplo hipotético: Você tem uma página com uma lista de produtos e, ao clicar em um botão "Detalhes" ao lado de um produto, uma janela modal aparece mostrando informações detalhadas sobre esse produto. O restante da página fica desfocado ou escurecido para indicar que a janela modal está em primeiro plano. O usuário pode então fechar a janela modal e retornar à lista de produtos.
+
+Estudo:
+
+- Criando janela modal e formulário
+- Expressões regulares
+- Finalizando validação (do mini projeto da janela model e formulário)
+- Navegação sem atualizar e API JQuery
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

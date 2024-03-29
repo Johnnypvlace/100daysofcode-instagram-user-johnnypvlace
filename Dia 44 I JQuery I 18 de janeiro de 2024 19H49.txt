@@ -1,0 +1,22 @@
+# Dia 44
+
+# Dia 44|100 🧩 Bloco Novo, Ainda não posso comentar o que houve no dia 43/100 e+
+
+Bloco anterior ‘ Introduzindo o JQuery ‘ encerrado, Bloco Atual será o ‘ Dominando o JQuery ‘, um Bloco bastante extenso, muitas aulas de 15,20,30 Minutos
+Porém, o Tema é muito Interessante, e é isso que motiva**😁**
+
+Estudo:
+
+- Variáveis com JQuery
+- Manipulando dimensões dinamicamente
+- Manipulando textos dinamicamente
+- Manipulando a posição no DOM
+- Eventos dinâmicos e mais conceitos
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

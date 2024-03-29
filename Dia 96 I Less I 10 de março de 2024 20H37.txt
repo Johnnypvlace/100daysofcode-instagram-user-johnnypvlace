@@ -1,0 +1,24 @@
+# Dia 96
+
+# Dia 96|100 🧩 Nova seção no bloco Sass e Less, e+
+
+Dia de Less, Less é um pré-processador de CSS, ou seja, é uma linguagem que estende a sintaxe do CSS, adicionando funcionalidades como variáveis, mixins, funções e aninhamento, e depois compila esse código em CSS válido. Isso permite que os desenvolvedores escrevam estilos de forma mais eficiente e organizada, reduzindo a repetição de código e facilitando a manutenção.
+
+Opinião:  Assim como o Sass (pré-processadore CSS), o Less nao me brilhou tanto os olhos por ser basicamente a mesma coisa, em primeiro momento o Less acabou me dando a mesma sensação do dia anterior, não vejo tamanha eficiência assim no sentido de produtividade, não vejo como em um projeto grande, utilizar uma das duas opções possa ser vantagem em ganho de tempo, novamente como dito no dia anterior, pode ser vantagem para muitas pessoas o uso do Sass ou Less, porém, para mim, acho mais interessante usar o CSS na versão Pura.
+
+Estudo:
+
+- Introduzindo e entendendo os pré processadores Less
+- Instalando e configurando ferramenta Koala (Koala é um aplicativo GUI para compilação Less, Sass entre outras.)
+- Dominando Less @1
+- Dominando Less @2
+- Dominando Less @3
+- Dominando Less @4
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

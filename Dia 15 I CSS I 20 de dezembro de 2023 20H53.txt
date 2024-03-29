@@ -1,0 +1,25 @@
+# Dia 15
+
+# Dia 15|100 🧩  E cheguei na parte de Pseudo-Classes, Porém, não me imagino usando em nenhum projeto futuro
+
+As pseudo-classes em CSS são seletoras que selecionam elementos com base em seu estado ou posição em relação ao documento. Elas permitem aplicar estilos a elementos em situações específicas, além de apenas a sua estrutura ou conteúdo.
+
+Estudo:
+
+- backgroud-repeat: repeat-x/repeat-y*
+- Mais sobre backgrounds, text-align e exercícios
+- a:link, a:visited, a:hover, e a:active
+
+Exemplo:
+
+a:visited {
+color: #00FF00;
+}
+
+- seletor (:focus)
+- [:empty](https://www.w3schools.com/cssref/sel_empty.asp)
+- :nth-child(n) / :nth-last-child(n) / :nth-last-of-type(n)
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

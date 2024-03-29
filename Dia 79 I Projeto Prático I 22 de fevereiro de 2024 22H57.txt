@@ -1,0 +1,19 @@
+# Dia 79
+
+# Dia 79|100 🧩 Primeira seção Finalizada, Form Feito, Temperatura do Celular e+
+
+Começamos o Dia terminando a seção Principal do site, a seção na qual solicitará um Email para ‘ Newsletter  ‘ e para Contato, foi feito um Form simples, porém, com um destaque maior no site! Gostei da ideia, não foi algo dificil, já fizemos vários <form> nos diversos Projetos que já passou aqui no Desafio.
+
+Novo dia com problema com o Celular, acabou gravando apenas os 20min iniciais da gravação, e não capturou o momento do <form> sendo feito, ao final, fui pegar o celular do Tripé, a tela de gravação estava apagada, quando desbloquiei o celular estava um aviso de:
+🌡️ Temperatura O Iphone precisa esfriar para que voce possa usá-lo.
+
+Não sei muito bem do que se trata, mas, o Celular não estava quente, e a gravação foi cortada devido esse aviso, nunca havia me surgido um problema desse.
+
+Código:
+
+- 1H30Min Trabalhando no Projeto “ Página de Dentista“.
+- 
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

@@ -1,0 +1,13 @@
+# Dia 59
+
+# Dia 59|100 🧩 Alguns Problema Superados e+
+
+Tive alguns problemas de posicionamento nas </div>, o que acarretou em uma perda de tempo determinante para o dia de hoje, mas, ao final do dia, consegui alocar os textos da forma que eu gostaria, restando apenas o footer para finalizar o projeto.
+
+Código:
+
+- 1H Trabalhando no Projeto “ Restaurante de Comida Japonesa“
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

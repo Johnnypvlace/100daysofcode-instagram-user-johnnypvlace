@@ -1,0 +1,19 @@
+# Dia 17
+
+# Dia 17|100 🧩 Novo Projeto, Nicho escolhido, Nome Escolhido e+
+
+O nome será "InovaSite Solutions", uma ideia sugerida pelo ChatGPT que achei interessante. Este será um site promocional para uma empresa especializada na criação de websites.
+
+Estudo:
+
+- Pequenas Edições, Logo, escopo do site e pesquisa de Imagens.
+
+Código:
+
+- Start Inicial
+- Pequenos Design no Photoshop
+- Repósitório no Github
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

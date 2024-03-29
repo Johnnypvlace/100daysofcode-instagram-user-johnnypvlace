@@ -1,0 +1,19 @@
+# Dia 84
+
+# Dia 84|100 🧩 Problema do Photoshop Solucionado, NOVA SEÇÃO DEPOIMENTOS, display flex + flex-wrap e+
+
+A Minha ferramente de ‘ Lata de Tinta ‘ do Photoshop por algum motivo estava indo para o modo ‘ Luz Linear ‘ ao invés de ‘ normal ‘ fazendo com que a atividade da ferramente ficasse basicamente com aparância estourada (Luz Linear), mas resolvi, e fizemos uma mudança no escopo da Imagem de Depoimento.
+
+Seção Depoimentos feita, optamos por fazer somente com (4) imagens dando um: *flex-wrap*: wrap; no container ‘Pai’ e um width de 25% no container ‘pai’ img (Totalizando 4x 25% = 100% do tamanho do container ‘ pai ‘), usar o display flex + *flex-wrap*: wrap; para essas tarefas é muito bom, simples e rápido.
+
+também fiz uma pequena mudanças na imagem fundo do depoimento, uma vez em que fiz ela inteira no site com o site no modo escuro (extensão dark reader) precisei mudar alguns tons na imagem.
+
+estou pensando em achar uma boa ‘ fita png ‘ para usar e colocar acima de cada seção, servindo de ‘ divisão ‘ para que o público veja o que seria cada seção, colocar essa fita e escrever ‘ Depoimentos ‘ / ‘ Diferenciais ‘ me parece uma boa ideia, ainda estou amadurecendo a ideia.
+
+Código:
+
+- 1H20Min Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

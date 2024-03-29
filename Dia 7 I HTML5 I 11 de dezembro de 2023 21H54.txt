@@ -1,0 +1,14 @@
+# Dia 7
+
+# Dia 7|100 🧩 Diminuindo drásticamente o uso de <div></div> e <div></div> dentro de outras <div></div>, e fazendo da Maneira Correta!
+
+Estudo:
+
+- Desmistificando a semântica correta de estruturar uma site com as melhores ‘<tag></tags>’
+ao invés de usar o padrão <div></div> e <div></div> dentro de outras <div></div>.
+- Webinar de Temas como: A Melhor maneira de estruturar sites com o HTML 5
+- Estudo detalhado das tags
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

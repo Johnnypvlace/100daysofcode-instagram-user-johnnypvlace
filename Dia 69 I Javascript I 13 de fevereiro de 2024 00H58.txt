@@ -1,0 +1,23 @@
+# Dia 69
+
+# Dia 69|100 🧩 Push notifications com Vanilla JS e+
+
+Push notifications são mensagens enviadas de um aplicativo móvel, website ou outro serviço online para dispositivos móveis, tablets, computadores ou outros dispositivos conectados à internet. Essas mensagens são "empurradas" para os dispositivos dos usuários, geralmente de forma instantânea, e aparecem como alertas na tela, mesmo quando o aplicativo ou site não está em uso ativo.
+
+Estudo:
+
+- Push notifications (Novamente)
+- Var,let e const
+- Orientação a Objetos
+- Mais sobre orientação a objetos
+- ForEach
+- Gráficos com chart JS (Biblioteca JavaScript puro)
+- AOS js (Biblioteca JavaScript puro)
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

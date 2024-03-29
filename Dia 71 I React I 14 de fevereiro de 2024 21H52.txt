@@ -1,0 +1,28 @@
+# Dia 71
+
+# Dia 71|100 🧩 React, e mais React e+
+
+Não é segredo que o Curso que estou seguindo, é focado no Front-end Completo, ou seja, ele acaba passando por diversos temas *Web e também passando por Frameworks, o que já passamos por alguns em dias anteriores, e o da vez foi o React:*
+
+O React é uma biblioteca front-end JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. O React é uma biblioteca modular, o que significa que os componentes podem ser facilmente reutilizados e compartilhados entre diferentes partes da aplicação. Isso torna mais fácil manter e expandir uma aplicação à medida que ela cresce, e permite que equipes de desenvolvimento trabalhem de forma mais eficiente juntas.
+
+Estudo:
+
+- Documentação pelo W3Schools
+- React 1/9
+- React 2/9
+- React 3/9
+- React 4/9
+- React 5/9
+- React 6/9
+- React 7/9
+- React 8/9
+- React 9/9
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

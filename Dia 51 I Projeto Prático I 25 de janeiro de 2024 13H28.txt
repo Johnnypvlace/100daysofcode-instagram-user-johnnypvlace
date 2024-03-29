@@ -1,0 +1,38 @@
+# Dia 51
+
+# Dia 51|100 🧩 Foco Total no novo Projeto, Muitas Idéias e+
+
+Começamos o Dia com novo Projeto, Imagens selecionadas, Fonte Escolhida, logomarca Criada, e tudo pronto para iniciarmos esse Projeto que estou muito Animado em fazer.
+
+O Projeto proposto era um site para Divulgação de uma empresa Tech, Pórem optei por criar um Site de um Restaurante de Comida Japonesa, o ChatGPT me propôs alguns nomes, e gostei do ‘ HanamiSushi ‘ e seguiremos com ele, cores escolhidas:
+
+Site:
+Cor do Site: #fffafa (tom de branco-gelo ou marfim pálido).
+
+Cor da Fonte: #1c2d59 (um tom de azul escuro).
+Cor de Fundo das Imagens do Banner que será criado: #d64552 (representa um tom de vermelho escuro).
+
+Logo:
+
+Nome da Fonte: BlowBrush
+'#d9a677' representa um tom de laranja-alaranjado ou terracota.
+
+'#fbe7cf' representa um tom de bege claro ou marfim
+
+'#cf4151' representa um tom de vermelho intenso.
+
+'#1c2d59' representa um tom escuro de azul.
+
+Sobre o Site, a Ideia será criar algo além de somente a página inicial, talvez um Cardápio… ainda estou resolvendo o que ser[a feito, porém, quero que seja um projeto maior que os anteriores;
+
+Código:
+
+- Pesquisa de Imagens
+- Elaboração da Logomarca
+- Criação do Repositório no Github
+- Elaboração/Criação do Escopo no Photoshop
+- 2H Trabalhando no Projeto “ Restaurante de Comida Japonesa“
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

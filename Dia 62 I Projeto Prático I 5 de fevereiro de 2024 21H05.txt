@@ -1,0 +1,17 @@
+# Dia 62
+
+# Dia 62|100 🧩 Alguns Retoques, Final do Projeto e+
+
+Passei o dia retocando as media screen para deixar o layout o mais responsável possível, e com isso chegamos ao fim de mais um projeto, um projeto que eu gostei muito de fazer, vale lembrar que:
+
+O Projeto proposto era um site para Divulgação de uma empresa Tech, Pórem optei por criar um Site de um Restaurante de Comida Japonesa.
+
+Ainda não sei qual será o próximo passo, mas, estou feliz com o resultado final deste site.
+
+Código:
+
+- 2H Trabalhando no Projeto “ Restaurante de Comida Japonesa“
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

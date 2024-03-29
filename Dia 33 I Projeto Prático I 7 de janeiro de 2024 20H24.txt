@@ -1,0 +1,17 @@
+# Dia 33
+
+# Dia 33|100 🧩 Finalização do Projeto, e Início do último projeto do Bloco e+
+
+E chegou ao Fim o Projeto “ Espaço Fitness de Condomínio “, até o momento foi o Projeto que eu gostei de fazer, de alguma forma, consegui fazer projeto sozinho, sem auxilio das vídeos aulas, e seguindo os passos do Professor, peguei a base de um layout (foto) na internet onde era um Clube de Natação, e então, criei a proposta do “ Espaço Fitness de Condomínio “ e codifiquei em cima da ideia desse tal Clube de Natação.
+
+ainda não cheguei no Curso de Web Designer, para construção dos meus próprios Layouts, mas isso é o meu Interesse, a Possibilidade de Criar algo 100% de minha autoria é fascinante, porém, não quero pular etapas, estou focado no Curso atual, e quero focar somente nele no momento, mas o próximo curso que darei total atenção será o de Design para Web, tenho noções com Photoshop e Adobe Firework, e não vejo a hora de focar nesse tema também.
+
+E Enquanto o novo Projeto, Já li a documentação, e penso em fazer algo relacionado com carros, não pensei ainda, e para descobrir o que será feito, somente no próximo vídeo🤩
+
+Código:
+
+- 3H Trabalhando no Projeto “ Espaço Fitness de Condomínio “
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

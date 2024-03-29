@@ -1,0 +1,15 @@
+# Dia 14
+
+# Dia 14|100 🧩 Adiantando as aulas Práticas, e preparado para os próximos Projetos
+
+Ainda tenho algumas aulas de HTML e CSS antes do próximo projeto a ser executado, mas mal posso esperar para colocar a 'mão na massa' novamente.
+
+Estudo:
+
+- **Auto,inherit e initial**
+- Manipulando elementos no CSS via atributo(s)
+- Propriedade Position ‘ position: fixed ‘
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

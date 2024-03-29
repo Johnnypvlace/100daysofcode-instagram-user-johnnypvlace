@@ -1,0 +1,23 @@
+# Dia 48
+
+# Dia 48|100 🧩 Novo Bloco e+
+
+Novo bloco, que irá abranger em temas como Configurando Domínio e Hospedagem de Sites na Internet, URL amigáveis, Cpanel, que é um site/software de gestão de Hospedagem web, na qual eu já conhecia, acabei aprendendo em meu emprego anterior, porém, não com a mesma visão que foi repassada, também envolve o FileZilla (permite conectar-se ao seu servidor para alterar e transferir seus arquivos) que também tive a Oportunidade de Mexer diariamente, no passado.
+
+Gostei das aulas do Bloco, até aqui. 👾👾👾
+
+Estudo:
+
+- Observações e Projetos
+- Configurando Domínio e Hospedagem, compra de um Domínio, Configurar, até transferir o projeto ao servidor (Visível para o Público) + Cpanel (software de gestão de Hospedagem web)
+- Formulário de contato e disparo de email
+- Url Amigável (É uma URL que é fácil de ler e entender para os usuários e mecanismos de pesquisa).
+- Aplicando Analytics
+
+Código:
+
+- Atividades em Conjuntos com as Aulas
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>

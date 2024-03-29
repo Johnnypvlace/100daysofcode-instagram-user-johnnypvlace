@@ -1,0 +1,15 @@
+# Dia 88
+
+# Dia 88|100 🧩 Certamente a Seção mais complicada da história, Trabalho de ‘ Formiga ‘, Perda de tempo, e +
+
+Me Encontro na seção ‘ Passo a passo ‘ que será uma seção onde será dito os 6 passos até o inicio do tratamento do consultório, e ao lado da espécie de ‘ Trilha ‘ teremos essas três imagens, ambas usando ‘ float ‘ para inverter as ordens, porém, é algo que eu nunca fiz, e estou com muita dificuldade de alinhas os ‘ <p> ‘ (Parágrafo), acabei perdendo bastante tempo nessa seção, tentando alinhar elas…
+
+E ainda não consegui, por ser algo novo, algo que eu nunca fiz, creio que seja normal, porém, ficar mais de 40min testando as mudanças, é algo complicado,
+
+Código:
+
+- 1H40Min Trabalhando no Projeto “ Página de Dentista“.
+
+<tags>
+#100DiasDeCodigo #Desafio100diasdecodigo #CodeDailyChallenge #100DaysOfStudy #100daysofstudy #100DaysOfCode #motivation #100daysofcode #computerscience #CodingJourney #100DaysOfCodeAndStudy #100daysofstudyandcode #Motivation #StudyMotivation#TechLife #programming #CodeChallenge #CodingCommunity #TechStudent #LearnToCode #StudyHard #DailyCoding #StudyGoals #TechSkills #CodingJourney #CodeEveryday #StudyInspiration #startup #ProgrammingLife #StudyProgress
+</tags>
